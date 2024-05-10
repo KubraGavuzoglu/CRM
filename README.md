@@ -1,4 +1,5 @@
 ﻿# Siliconmade Academy CRM Projesi
+ (Bu proje Siliconmade Academy de almış olduğum İleri Full-Stack eğitiminde sınıf olarak grupça oluşturmuş olduğumuz projedir)
 
 Bu proje ile örnek bir CRM projesi gerçekleştirilecektir.
 
