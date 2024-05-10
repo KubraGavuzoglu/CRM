@@ -12,6 +12,7 @@ Bu proje ile örnek bir CRM projesi gerçekleştirilecektir.
 - ASP.NET WebApi
 - EntityFramework Core
 - SQL Server
+- Vue.js
 
 ## Modüller
 
